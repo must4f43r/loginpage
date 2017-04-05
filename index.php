@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta charset="UTF-8">
@@ -40,7 +35,7 @@ and open the template in the editor.
                     <br>
                     <br>
                     <b><input class="btn-login" name="login-btn" type="submit" value="Sign in to SAUEEM"></input></b></p>
-        <label style="font-size: 12px; opacity: 0.5;">SAUEEM Project © by <a style="color: #fff; opacity: 1;" href="http://mustafaerblog.wordpress.com" target="_blank">Mustafa ER</a></label>
+        <label style="font-size: 12px; opacity: 0.5;">SAUEEM Project © by <a style="color: #fff; opacity: 1;" href="https://mustafaer.pro" target="_blank">Mustafa ER</a></label>
             </div>
             </div>
         </div>
